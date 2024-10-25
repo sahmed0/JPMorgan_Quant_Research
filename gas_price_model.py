@@ -11,7 +11,6 @@ example code to improve upon my own initial attempt.
 """
 
 import pandas as pd
-import numpy as np
 from sklearn.linear_model import LinearRegression
 from datetime import datetime, timedelta
 
