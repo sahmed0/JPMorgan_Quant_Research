@@ -1,11 +1,8 @@
 # -*- coding: utf-8 -*-
 
 """
-Created on Mon Nov 11 16:04:51 2024
 
-@author: ahmed
-
-Supposed to calculate the probability of default, by using scipy minimise.
+Calculates the probability of default, by using scipy minimise.
 
 """
 
