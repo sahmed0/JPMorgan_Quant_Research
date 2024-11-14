@@ -3,6 +3,8 @@
 Created on Tue Dec  5 23:09:52 2023
 
 @author: ahmed
+
+Calculates value of natural gas contracts for trading
 """
 
 import pandas as pd
